@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/draft-NCC/static/css/main.7da3594b.css",
+    "main.js": "/draft-NCC/static/js/main.15f432ca.js",
+    "static/js/453.1d3dd05c.chunk.js": "/draft-NCC/static/js/453.1d3dd05c.chunk.js",
+    "index.html": "/draft-NCC/index.html",
+    "main.7da3594b.css.map": "/draft-NCC/static/css/main.7da3594b.css.map",
+    "main.15f432ca.js.map": "/draft-NCC/static/js/main.15f432ca.js.map",
+    "453.1d3dd05c.chunk.js.map": "/draft-NCC/static/js/453.1d3dd05c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7da3594b.css",
+    "static/js/main.15f432ca.js"
+  ]
+}
